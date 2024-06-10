@@ -1,0 +1,3 @@
+cuckoou64
+
+A uint64 cuckoo filter using xxHash, 8-bit fingerprints, optimised for 64-bit architectures.
